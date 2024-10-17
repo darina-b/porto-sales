@@ -5,8 +5,7 @@ AUTHOR: **Darina Bunak**
 TECHNOLOGIES: **PowerBI (DAX)**  
 
 ##  
-![Sales_01_overall](https://github.com/user-attachments/assets/1206a116-d450-468e-ad64-0812cdf59d7c)
-
+![Sales_01_overall](https://github.com/user-attachments/assets/f636d81f-19dc-48e4-b34d-53cc410d717b)
 ##  
 **DATASET**  
 
@@ -55,9 +54,9 @@ The interactive dashboard reflects:
 Based on the OBSERVATIONS above, here are some points to consider further:
 - **Is South Africa's demand covered** by the number of car dealers presented or **is the market undersaturated?** What is the **growth potential** there?
 - **What is the average revenue by shop in each country?** In the capital? Outside of it? Which country/ location is more profitable?
-- **What makes the most popular models win?** Do they represent the whole spectrum of segments? Do they have anything in common? If so, do they indicate certain preferences by customers (fuel type/ engine size/ insurance policy/ colour?)
-- **Toyota and Ford are worth further investigation**. What is the key to their success, customers' trust and respect for the **brand or certain features** that they can be found in other cars? If customers trust the brands themselves, will it be justified to cut off the least profitable models and extend the representation of these two well-loved brands? If it is about features or feature/price ratio, there might be other cars fitting this golden ratio and representing them might show similar profitability in the future.
-- **Is there competition between closely located shops in Botswana (e.g. in the capital region)?** If so, could it be eliminated by e.g. segment separation or model distribution? **Is the logistical model optimised?** Will it be cheaper if more shops open in South Africa? What would be the best location to open them, on the coast or inland?
+- **What makes the most popular car models win?** Do they have anything in common? If so, do they indicate certain preferences by customers (fuel type/ engine size/ insurance policy/ colour?)
+- **Toyota and Ford are worth further investigation**. What is the key to their success, customers' respect for the **brand or certain features** that can be found in other cars? If customers trust the brands themselves, will it be justified to cut off the least profitable models and extend the representation of these two well-loved brands? If it is about features or feature/price ratio, there might be other cars fitting this golden ratio and representing them might show similar profitability in the future.
+- **Is there competition between closely located shops in Botswana (e.g. in the capital region)?** If so, could it be eliminated by e.g. segment separation or model distribution? **Is the logistical model optimised?** Wouldll it be cheaper if more shops opened in South Africa? What would be the best location to open them, on the coast or inland?
 
 ![Sales_07_by brand](https://github.com/user-attachments/assets/0810efbe-cd38-4078-9bb9-41414609de69)
 ##  
